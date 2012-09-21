@@ -1,0 +1,1 @@
+Put this into your ~/Library/Services directory to add Open in Terminal to your Services menu in OSX. Then you can assign a keyboard shortcut and, voila, your life just got a lot better.
